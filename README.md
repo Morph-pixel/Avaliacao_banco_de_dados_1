@@ -1,1 +1,1 @@
-# Avalia-o_banco_de_dados_1
+#Entrega do trabalho de banco de dados 1 pelo Github
